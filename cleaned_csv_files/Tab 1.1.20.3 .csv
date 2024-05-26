@@ -1,7 +1,7 @@
-"tabela_1.1.20.3_-_percentual_de_pessoas_que_utilizaram_a_internet,_no_período_de_referência_dos_últimos_três_meses,_na_população_de_10_anos_ou_mais_de_idade,_por_grandes_regiões,_segundo_as_classes_de_rendimento_mensal_domiciliar_per_capita__-__2015",unnamed:_1,unnamed:_2,unnamed:_3,unnamed:_4,unnamed:_5,unnamed:_6
-Classes de rendimento mensal domiciliar per capita,"Percentual de pessoas que utilizaram a Internet, no período de referência dos últimos três meses, na população de 10 anos ou mais de idade (%)",0,0,0,0,0
-0,Brasil,Grandes Regiões,0,0,0,0
-0,0,Norte,Nordeste,Sudeste,Sul,Centro-Oeste
+"tabela 1.1.20.3 - percentual de pessoas que utilizaram a internet, no período de referência dos últimos três meses, na população de 10 anos ou mais de idade, por grandes regiões, segundo as classes de rendimento mensal domiciliar per capita  -  2015",unnamed: 1,unnamed: 2,unnamed: 3,unnamed: 4,unnamed: 5,unnamed: 6
+Classes de rendimento mensal domiciliar per capita,"Percentual de pessoas que utilizaram a Internet, no período de referência dos últimos três meses, na população de 10 anos ou mais de idade (%)",,,,,
+,Brasil,Grandes Regiões,,,,
+,,Norte,Nordeste,Sudeste,Sul,Centro-Oeste
 Total (1),57.4,46.1,45.1,65.1,61.1,63.9
 Sem rendimento a 1/4 do salário mínimo (2),32.7,24.3,26.1,51.5,42.6,53
 Mais de 1/4 a 1/2 salário mínimo,45,37.4,39.3,54.6,47.9,53.1
@@ -11,6 +11,6 @@ Mais de 2 a 3 salário mínimos,70.9,69.5,68.2,72.4,68,73.7
 Mais de 3 a 5 salários mínimos,81.9,78.1,82.4,82.9,79.7,82.4
 Mais de 5 a 10 salários mínimos,88.6,85.4,86.9,89.1,87.9,90.2
 Mais de 10 salários mínimos,92.1,84.8,90.3,92.8,91,93.1
-"Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Trabalho e Rendimento, Pesquisa Nacional por Amostra de Domicílios 2015.",0,0,0,0,0,0
-"Nota: Exclusive as pessoas cuja condição na unidade domiciliar era pensionista, empregado doméstico ou parente do empregado doméstico.",0,0,0,0,0,0
-(1) Inclusive as pessoas sem declaração  de  rendimento mensal domiciliar per capita. (2) Inclusive as pessoas moradoras em unidades domiciliares cujos componentes recebiam somente em benefícios.,0,0,0,0,0,0
+"Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Trabalho e Rendimento, Pesquisa Nacional por Amostra de Domicílios 2015.",,,,,,
+"Nota: Exclusive as pessoas cuja condição na unidade domiciliar era pensionista, empregado doméstico ou parente do empregado doméstico.",,,,,,
+(1) Inclusive as pessoas sem declaração  de  rendimento mensal domiciliar per capita. (2) Inclusive as pessoas moradoras em unidades domiciliares cujos componentes recebiam somente em benefícios.,,,,,,

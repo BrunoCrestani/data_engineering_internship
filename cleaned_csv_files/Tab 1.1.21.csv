@@ -1,7 +1,7 @@
-"tabela_1.1.21_-_rendimento,_médio_e_mediano,_mensal_domiciliar_per_capita_das_pessoas_de_10_anos_ou_mais_de_idade,_por_utilização_da_internet,_no_período_de_referência_dos_últimos_três_meses,_segundo_as_grandes_regiões_e_os_grupos_de_anos_de_estudo_-_2015",unnamed:_1,unnamed:_2,unnamed:_3,unnamed:_4,unnamed:_5,unnamed:_6
-Grandes Regiões e grupos de anos de estudo,Rendimento médio mensal domiciliar per capita das pessoas de 10 anos ou mais de idade (R$) (1),0,0,Rendimento mediano mensal domiciliar per capita das pessoas de 10 anos ou mais de idade (R$) (1),0,0
-0,Total,"Utilização da Internet, no período de referência dos últimos três meses",0,Total,"Utilização da Internet, no período de referência dos últimos três meses",0
-0,0,Utilizaram,Não utilizaram,0,Utilizaram,Não utilizaram
+"tabela 1.1.21 - rendimento, médio e mediano, mensal domiciliar per capita das pessoas de 10 anos ou mais de idade, por utilização da internet, no período de referência dos últimos três meses, segundo as grandes regiões e os grupos de anos de estudo - 2015",unnamed: 1,unnamed: 2,unnamed: 3,unnamed: 4,unnamed: 5,unnamed: 6
+Grandes Regiões e grupos de anos de estudo,Rendimento médio mensal domiciliar per capita das pessoas de 10 anos ou mais de idade (R$) (1),,,Rendimento mediano mensal domiciliar per capita das pessoas de 10 anos ou mais de idade (R$) (1),,
+,Total,"Utilização da Internet, no período de referência dos últimos três meses",,Total,"Utilização da Internet, no período de referência dos últimos três meses",
+,,Utilizaram,Não utilizaram,,Utilizaram,Não utilizaram
 Brasil (2),1114,1391,743,733,843,566
 Sem instrução e menos de 1 ano,678,989,653,590,682,579
 1 a 3 anos,657,783,621,512,542,500
@@ -44,6 +44,6 @@ Sem instrução e menos de 1 ano,882,1247,836,787,787,784
 8 a 10 anos,988,1012,933,736,748,713
 11 a 14 anos,1395,1455,1107,996,1000,799
 15 anos ou mais,3380,3468,2077,2198,2256,1187
-"Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Trabalho e Rendimento, Pesquisa Nacional por Amostra de Domicílios 2015.",0,0,0,0,0,0
-"Nota: Exclusive as informações das pessoas cuja condição na unidade domiciliar era pensionista, empregado doméstico ou parente do empregado doméstico.",0,0,0,0,0,0
-(1) Exclusive as informações das pessoas sem declaração de rendimento mensal domiciliar per capita. (2) Inclusive as informações das pessoas com anos de estudo não determinados.,0,0,0,0,0,0
+"Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Trabalho e Rendimento, Pesquisa Nacional por Amostra de Domicílios 2015.",,,,,,
+"Nota: Exclusive as informações das pessoas cuja condição na unidade domiciliar era pensionista, empregado doméstico ou parente do empregado doméstico.",,,,,,
+(1) Exclusive as informações das pessoas sem declaração de rendimento mensal domiciliar per capita. (2) Inclusive as informações das pessoas com anos de estudo não determinados.,,,,,,

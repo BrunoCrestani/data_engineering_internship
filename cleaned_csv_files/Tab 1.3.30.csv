@@ -1,7 +1,7 @@
-"tabela_1.3.30_-_rendimento,_médio_e_mediano,_mensal_domiciliar_per_capita_das_pessoas_de_10_anos_ou_mais_de_idade,_por_posse_de_telefone_móvel_celular_para_uso_pessoal,_segundo_as_grandes_regiões,_as_unidades_da_federação_e_as_regiões_metropolitanas_-_2015",unnamed:_1,unnamed:_2,unnamed:_3,unnamed:_4,unnamed:_5,unnamed:_6
-"Grandes Regiões, Unidades da Federação e Regiões Metropolitanas",Rendimento médio mensal domiciliar per capita das pessoas de 10 anos ou mais de idade (R$),0,0,Rendimento mediano mensal domiciliar per capita das pessoas de 10 anos ou mais de idade (R$),0,0
-0,Total,Posse de telefone móvel celular para uso pessoal,0,Total,Posse de telefone móvel celular para uso pessoal,0
-0,0,Possuíam,Não possuíam,0,Possuíam,Não possuíam
+"tabela 1.3.30 - rendimento, médio e mediano, mensal domiciliar per capita das pessoas de 10 anos ou mais de idade, por posse de telefone móvel celular para uso pessoal, segundo as grandes regiões, as unidades da federação e as regiões metropolitanas - 2015",unnamed: 1,unnamed: 2,unnamed: 3,unnamed: 4,unnamed: 5,unnamed: 6
+"Grandes Regiões, Unidades da Federação e Regiões Metropolitanas",Rendimento médio mensal domiciliar per capita das pessoas de 10 anos ou mais de idade (R$),,,Rendimento mediano mensal domiciliar per capita das pessoas de 10 anos ou mais de idade (R$),,
+,Total,Posse de telefone móvel celular para uso pessoal,,Total,Posse de telefone móvel celular para uso pessoal,
+,,Possuíam,Não possuíam,,Possuíam,Não possuíam
 Brasil,1114,1242,656,733,788,491
 Norte,756,888,468,494,565,346
 Rondônia,947,1055,606,692,757,489
@@ -44,4 +44,4 @@ Mato Grosso do Sul,1286,1374,714,850,912,600
 Mato Grosso,1130,1219,689,788,840,583
 Goiás,1104,1152,787,788,799,601
 Distrito Federal,2239,2350,1165,1131,1228,682
-"Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Trabalho e Rendimento, Pesquisa Nacional por Amostra de Domicílios 2015.",0,0,0,0,0,0
+"Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Trabalho e Rendimento, Pesquisa Nacional por Amostra de Domicílios 2015.",,,,,,

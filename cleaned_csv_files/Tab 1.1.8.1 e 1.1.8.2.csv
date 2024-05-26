@@ -1,7 +1,7 @@
-"tabela_1.1.8.1_-_pessoas_de_10_anos_ou_mais_de_idade,_por_grandes_regiões,_segundo_o_sexo_e_o_nível_de_instrução_-_2015",unnamed:_1,unnamed:_2,unnamed:_3,unnamed:_4,unnamed:_5,unnamed:_6,"tabela_1.1.8.2_-_distribuição_das_pessoas_de_10_anos_ou_mais_de_idade,_por_grandes_regiões,_segundo_o_sexo_e_o_nível_de_instrução_-_2015",unnamed:_8,unnamed:_9,unnamed:_10,unnamed:_11,unnamed:_12,unnamed:_13
-Sexo e nível de instrução,Pessoas de 10 anos ou mais de idade (1000 pessoas),0,0,0,0,0,Sexo e nível de instrução,Distribuição das pessoas de 10 anos ou mais de idade (%),0,0,0,0,0
-0,Brasil,Grandes Regiões,0,0,0,0,0,Brasil,Grandes Regiões,0,0,0,0
-0,0,Norte,Nordeste,Sudeste,Sul,Centro-Oeste,0,0,Norte,Nordeste,Sudeste,Sul,Centro-Oeste
+"tabela 1.1.8.1 - pessoas de 10 anos ou mais de idade, por grandes regiões, segundo o sexo e o nível de instrução - 2015",unnamed: 1,unnamed: 2,unnamed: 3,unnamed: 4,unnamed: 5,unnamed: 6,"tabela 1.1.8.2 - distribuição das pessoas de 10 anos ou mais de idade, por grandes regiões, segundo o sexo e o nível de instrução - 2015",unnamed: 8,unnamed: 9,unnamed: 10,unnamed: 11,unnamed: 12,unnamed: 13
+Sexo e nível de instrução,Pessoas de 10 anos ou mais de idade (1000 pessoas),,,,,,Sexo e nível de instrução,Distribuição das pessoas de 10 anos ou mais de idade (%),,,,,
+,Brasil,Grandes Regiões,,,,,,Brasil,Grandes Regiões,,,,
+,,Norte,Nordeste,Sudeste,Sul,Centro-Oeste,,,Norte,Nordeste,Sudeste,Sul,Centro-Oeste
 Total,177656.822,14536.868,48409.904,75598.609,25771.8,13339.641,Total,100,100,100,100,100,100
 Sem instrução,15072.679,1349.29,6906.856,4357.082,1490.43,969.021,Sem instrução,8.5,9.3,14.3,5.8,5.8,7.3
 Fundamental incompleto,62043.841,5676.718,18885.291,23939.395,9151.462,4390.975,Fundamental incompleto,34.9,39.1,39,31.7,35.5,32.9
@@ -29,4 +29,4 @@ Médio completo,23294.166,1747.679,5854.435,10963.264,3040.104,1688.684,Médio c
 Superior incompleto,4439.155,342.16,1045.62,1861.392,720.89,469.093,Superior incompleto,4.8,4.7,4.1,4.7,5.4,6.8
 Superior completo,10777.061,585.217,1894.816,5488.952,1819.786,988.29,Superior completo,11.7,8.1,7.5,13.9,13.7,14.4
 Não determinado,236.346,32.701,69.312,54.158,58.888,21.287,Não determinado,0.3,0.5,0.3,0.1,0.4,0.3
-"Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Trabalho e Rendimento, Pesquisa Nacional por Amostra de Domicílios 2015.",0,0,0,0,0,0,"Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Trabalho e Rendimento, Pesquisa Nacional por Amostra de Domicílios 2015.",0,0,0,0,0,0
+"Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Trabalho e Rendimento, Pesquisa Nacional por Amostra de Domicílios 2015.",,,,,,,"Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Trabalho e Rendimento, Pesquisa Nacional por Amostra de Domicílios 2015.",,,,,,

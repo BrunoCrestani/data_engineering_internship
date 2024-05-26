@@ -23,9 +23,7 @@ class DataCleaning:
         dataframe = dataframe.dropna(how='all')
         dataframe = dataframe.dropna(axis=1, how='all')
 
-        dataframe.fillna(0, inplace=True)
-
-        dataframe.columns = dataframe.columns.str.strip().str.lower().str.replace(' ', '_')
+        dataframe.columns = dataframe.columns.str.strip().str.lower().str.replace('_ ', ' ')
 
         return dataframe
  
@@ -36,7 +34,6 @@ class DataCleaning:
         for filename, df in dataframes.items():
 
             subdirectory = os.path.dirname(filename)
-            print(subdirectory)
             
             output_subdir = os.path.join(output_dir, subdirectory)
 
@@ -46,8 +43,7 @@ class DataCleaning:
             clean_df = self.clean_data(df)
             clean_df.to_csv(os.path.join(output_dir, filename), index=False)
 
-
-if __name__ == "__main__":
+def main():
     data_dir = os.path.join(os.getcwd(), 'csv_files')
     project_dir = data_dir
     output_dir = os.path.join(os.getcwd(), 'cleaned_csv_files')
@@ -58,3 +54,6 @@ if __name__ == "__main__":
     cleaned_dataframes = {filename: cleaner.clean_data(df) for filename, df in dataframes.items()} 
     
     cleaner.save_clean_data(cleaned_dataframes, output_dir)
+
+if __name__ == "__main__":
+    main()
