@@ -24,6 +24,8 @@ class Converter:
                 if not dataframe.empty:
                     filename_dir = os.path.splitext(filename)[0]
 
+                    dataframe.filename = filename_dir
+
                     dir_path = os.path.join(self.output_path, filename_dir)
                     if not os.path.exists(dir_path):
                         os.makedirs(dir_path)
