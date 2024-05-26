@@ -18,22 +18,24 @@ class Converter:
             xslx_file = pd.ExcelFile(file_path)
        
             for sheet_name in xslx_file.sheet_names:
-                #making a dataframe from the xslx file 
-                dataframe = pd.read_excel(file_path, sheet_name=sheet_name)
 
-                if not dataframe.empty:
-                    filename_dir = os.path.splitext(filename)[0]
+                if sheet_name.startswith('Tab'):
+                    #making a dataframe from the xslx file 
+                    dataframe = pd.read_excel(file_path, sheet_name=sheet_name)
 
-                    dataframe.filename = filename_dir
+                    if not dataframe.empty:
+                        filename_dir = os.path.splitext(filename)[0]
 
-                    dir_path = os.path.join(self.output_path, filename_dir)
-                    if not os.path.exists(dir_path):
-                        os.makedirs(dir_path)
+                        dataframe.filename = filename_dir
 
-                    # defining the output path for the file
-                    csv_file_name = f"{sheet_name}.csv"
-                    csv_file_path = os.path.join(dir_path, csv_file_name)
+                        dir_path = os.path.join(self.output_path, filename_dir)
+                        if not os.path.exists(dir_path):
+                            os.makedirs(dir_path)
 
-                    #converting the dataframe in the output to a csv file
-                    dataframe.to_csv(csv_file_path, index=False)
-                    print(f'Converted {csv_file_name}')
+                        # defining the output path for the file
+                        csv_file_name = f"{sheet_name}.csv"
+                        csv_file_path = os.path.join(dir_path, csv_file_name)
+
+                        #converting the dataframe in the output to a csv file
+                        dataframe.to_csv(csv_file_path, index=False)
+                        print(f'Converted {csv_file_name}')

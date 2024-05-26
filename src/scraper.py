@@ -27,7 +27,7 @@ class Scraper:
         wait = WebDriverWait(self.driver, 10)
 
         for navigation_text in self.navigation_path:
-            print(f"Clique em '{navigation_text}'")
+            print(f"Click on '{navigation_text}'")
             wait.until(EC.element_to_be_clickable((By.LINK_TEXT, navigation_text))).click()
             self.scroll_half_of_display()
 
@@ -37,7 +37,7 @@ class Scraper:
         self.scroll_half_of_display()
 
         for filename in filenames:
-            print(f"Procurando e clicando no link para o arquivo: {filename}")
+            print(f"Searching and clicking the link for the archive: {filename}")
             link = WebDriverWait(self.driver, 1).until(
                 EC.element_to_be_clickable((By.XPATH, f"//a[contains(text(), '{filename}')]")))
 
@@ -49,12 +49,12 @@ class Scraper:
         default_download_path = os.path.join(os.path.expanduser("~"), "Downloads", filename)
         destination_path = os.path.join(self.download_dir, filename)
         if os.path.exists(default_download_path):
-            print(f"Movendo arquivo {filename} para {self.download_dir}")
+            print(f"Moving file {filename} to {self.download_dir}")
             shutil.move(default_download_path, destination_path)
         else:
-            print(f"Arquivo {filename} não encontrado no diretório de downloads")
+            print(f"File {filename} not found in the Downloads directory")
 
 
     def close(self):
-        print("Fechando navegador")
+        print("Closing Nav")
         self.driver.quit()
