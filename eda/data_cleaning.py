@@ -24,6 +24,7 @@ class DataCleaning:
     # methods to clean useless data
     def clean_data(self, dataframe):
 
+        dataframe = dataframe.drop(index=dataframe.index[-1])
 
         # excludes empty lines
         dataframe = dataframe.dropna(how='all')
